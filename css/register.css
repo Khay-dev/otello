@@ -347,7 +347,7 @@ body>section.section-1>div.form>div>form>div>div {
 
 .section-2 .title-header {
   font-weight: 700;
-  font-size: 34px;
+  font-size: 48px;
   line-height: 1.15;
   color: #585858;
 }
@@ -417,7 +417,7 @@ body>section.section-1>div.form>div>form>div>div {
 
 .section-3-a .title-header {
   font-weight: 700;
-  font-size: 34px;
+  font-size: 48px;
   line-height: 1;
   color: #585858;
 }
@@ -701,7 +701,9 @@ form {
   }
 
 
-  .section-1 .title-header {
+  .section-1 .title-header,
+  .section-2 .title-header,
+  .section-3-a .title-header {
     font-size: 34px;
     line-height: 1.15;
   }
